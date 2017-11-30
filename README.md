@@ -17,7 +17,7 @@ python l1_xgb.py
 ```
 
 ## Average the predictions
-To average the predicted masks, run:
+To average the predictions, run:
 
 ```
 python l2_rank_avg.py
