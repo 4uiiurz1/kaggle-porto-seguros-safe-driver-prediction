@@ -1,0 +1,22 @@
+Features:
+- l1_rgf_11191655.csv.gz
+- l1_ffm_11242208.csv.gz
+- l1_catb_11260440.csv.gz
+
+Parameters:
+- max_bin: 16
+- num_threads: 2
+- feature_fraction: 0.45
+- min_data_in_leaf: 740
+- bagging_freq: 16
+- boosting: gbdt
+- learning_rate: 0.025
+- application: binary
+- num_leaves: 52
+- bagging_fraction: 0.75
+- min_child_weight: 2.0
+
+- Fold 1/3 score: 0.280759
+- Fold 2/3 score: 0.285596
+- Fold 3/3 score: 0.279765
+- Mean score: 0.282040

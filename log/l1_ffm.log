@@ -1,0 +1,54 @@
+Features:
+- ps_ind_01
+- ps_ind_02_cat
+- ps_ind_03
+- ps_ind_04_cat
+- ps_ind_05_cat
+- ps_ind_06_bin
+- ps_ind_07_bin
+- ps_ind_08_bin
+- ps_ind_09_bin
+- ps_ind_10_bin
+- ps_ind_11_bin
+- ps_ind_12_bin
+- ps_ind_13_bin
+- ps_ind_14
+- ps_ind_15
+- ps_ind_16_bin
+- ps_ind_17_bin
+- ps_ind_18_bin
+- ps_reg_01
+- ps_reg_02
+- ps_reg_03
+- ps_car_01_cat
+- ps_car_02_cat
+- ps_car_03_cat
+- ps_car_04_cat
+- ps_car_05_cat
+- ps_car_06_cat
+- ps_car_07_cat
+- ps_car_08_cat
+- ps_car_09_cat
+- ps_car_10_cat
+- ps_car_11_cat
+- ps_car_11
+- ps_car_12
+- ps_car_13
+- ps_car_14
+- ps_car_15
+
+Parameters:
+- eta: 0.2
+- iteration: 100
+- factor: 5
+- nr_threads: 1
+- patience: 10
+- lambda: 1e-05
+- seed: 41
+
+- Fold 1/5 score: 0.287402
+- Fold 2/5 score: 0.278933
+- Fold 3/5 score: 0.288874
+- Fold 4/5 score: 0.283387
+- Fold 5/5 score: 0.275043
+- Mean score: 0.282728
